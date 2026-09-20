@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/Shamanchi/medical-doc-processor/actions/workflows/ci.yml/badge.svg)](https://github.com/Shamanchi/medical-doc-processor/actions/workflows/ci.yml)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue)](https://hub.docker.com/r/shamanchi/medical-doc-processor)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License: Shamanchi](https://img.shields.io/badge/License-Shamanchi-green.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
 
 **Процессор медицинских документов** — извлечение структурированных данных из медицинских документов (назначения, выписки, лабораторные результаты) с валидацией по клиническим стандартам.
