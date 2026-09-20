@@ -1,0 +1,1 @@
+# Medical Document Processor - Core package
